@@ -1,0 +1,43 @@
+h1 {
+	font-size:48px;
+	font-weight:bolder;
+}
+
+ul {
+
+	
+}
+
+li{
+	
+	list-style: none;
+	margin: 30px;
+	/*padding: 10px;
+	margin: 10px;
+	border-radius: 7px;
+	width: 150px;
+	text-align: center;
+	font-family: Verdana, sans-serif;*/
+
+
+}
+
+li a {
+	display: block;
+	width: 150px;
+	padding: 10px;
+	background-color: #1F2937;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+}
+
+a:hover {
+	background-color: lightgray;
+	color:black ;
+}
+
+p {
+	font-size: 18px;
+}
