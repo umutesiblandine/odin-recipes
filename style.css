@@ -3,7 +3,6 @@ background-color: black;
 }
 h1 {
 	color: lime;
-	margin-left: 600px;
 }
 .side-bar {
 	background-color: gray;
@@ -11,8 +10,6 @@ h1 {
 	width: 300px;
 	font-family: Georgia,sans-serif;
 	border-radius: 5px;
-	margin-right: auto;
-	margin-left: auto;
 }
 .side-bar ul {
 	padding-top: 15px;
