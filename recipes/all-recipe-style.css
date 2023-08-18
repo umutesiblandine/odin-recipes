@@ -1,0 +1,68 @@
+body {
+	margin: 0px;
+	font-family: Verdana, sans-serif;
+}
+/**** TOP HEADER **********/
+.top-header {
+	display: flex;
+	background-color: lightgray;
+	color: black;
+	margin-bottom: 10px;
+}
+h1 {
+	text-align: center;
+}
+.left-side {
+	
+	width: 50%;
+}
+.right-side {
+	
+	text-align: center;
+	width: 50%;
+}
+.top-header li {
+	list-style: none;
+	padding: 3px;
+}
+a {
+	background-color: darkblue;
+	text-decoration: none;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	
+}
+a:hover {
+	background-color: lightgray;
+	color: black;
+}
+
+/*********** MAIN **************/
+
+.main {
+	display: flex;
+	background-color:lightgray ;
+	color: black;
+}
+
+img {
+	display: block;
+	border-radius: 15px;
+	width: 300px;
+	height: 150px;
+}
+.discription,.steps,img {
+	margin: 20px;
+	/*font-family: Georgia,sans-serif;*/
+	line-height: 22px;
+
+}
+
+/*********** HEADINGS **********/
+.steps h3 {
+	text-align: center;
+}
+h3,h2,h1 {
+	color: darkblue;
+}
